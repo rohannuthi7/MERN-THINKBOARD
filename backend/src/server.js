@@ -15,5 +15,3 @@ app.use("/api/notes", notesRoutes);
 app.listen(PORT, () => {
     console.log("Server started on PORT:", PORT);
 });
-
-// mongodb+srv://rohannuthi07_db_user:VaLbeJWa7HQ1ohSh@cluster0.p727hwt.mongodb.net/?appName=Cluster0
